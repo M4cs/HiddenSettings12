@@ -1,0 +1,9 @@
+Package: com.maxbridgland.hiddensettings12
+Name: HiddenSettings12
+Depends: mobilesubstrate, libactivator
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Enable HiddenSettings on iOS 12. Requires Activator. 
+Maintainer: Max Bridgland <blog@maxbridgland.com>
+Author: Max Bridgland <blog@maxbridgland.com>
+Section: Tweaks
